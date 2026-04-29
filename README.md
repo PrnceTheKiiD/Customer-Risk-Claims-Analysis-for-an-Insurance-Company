@@ -1,4 +1,5 @@
 Analysis for an Insurance Company
+
 A report on the Fraud Analysis of Claims from customers of an Insurance Company 
 
 Project Overview & Background
