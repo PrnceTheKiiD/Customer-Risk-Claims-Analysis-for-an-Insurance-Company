@@ -3,29 +3,29 @@ A report on the Fraud Analysis of Claims from customers of an Insurance Company
 
 Project Overview & Background
 This project analyzes the claims of Ubuntu Insurance Ltd. who is facing:
-• Increasing claim costs
-• Suspected fraudulent claims
-• Low customer retention
-• The tools used:
-• SQL (Databricks)
-• Power BI (Dashboard)
-• Power Point (Presentation)
+- Increasing claim costs
+- Suspected fraudulent claims
+- Low customer retention
+- The tools used:
+- SQL (Databricks)
+- Power BI (Dashboard)
+- Power Point (Presentation)
 
 The insurance dataset was uploaded onto Databricks and was processed using SQL in a notebook
 The dataset was used to create a table in a database using SQL
 Data Exploration Questions
 The Following questions were answered in the data exploration notebook:
 
-❑Total number of customers 
-❑Total number of policies 
-❑Total number of claims 
-❑Total claim amount 
-❑Claims by policy type 
-❑Average claim amount per policy type 
-❑Number of fraud vs non-fraud claims 
-❑Top 5 highest claim amounts 
-❑Claims per location 
-❑Claims trend over time 
+- Total number of customers 
+- Total number of policies 
+- Total number of claims 
+- Total claim amount 
+- Claims by policy type 
+- Average claim amount per policy type 
+- Number of fraud vs non-fraud claims 
+- Top 5 highest claim amounts 
+- Claims per location 
+- Claims trend over time 
 
 Dashboard and Insights
 A Power BI Dashboard was built to visualize and summarize the insights from the cleaned table dataset
@@ -43,84 +43,84 @@ Data Cleaning
 The dataset that was ingested on Databricks is cleaned in a separate SQL notebook and it creates a new cleaned dataset.
 
 The dataset was initially very messy, presenting issue such as:
-• Missing values
-• Blank values
-• Text casing inconsistencies
-• Unnecessary spaces
-• Inconsistent date formatting
-• Inconsistent numeric formatting
-• Inconsistent data types
-• Redundant naming such as different terms with same meaning
+- Missing values
+- Blank values
+- Text casing inconsistencies
+- Unnecessary spaces
+- Inconsistent date formatting
+- Inconsistent numeric formatting
+- Inconsistent data types
+- Redundant naming such as different terms with same meaning
 
 Customer_ID cleaning:
-• Removed unnecessary spaces
+- Removed unnecessary spaces
 
 Gender cleaning:
-• Removed unnecessary spaces
-• Replaced missing values
-• Standardized the values
+- Removed unnecessary spaces
+- Replaced missing values
+- Standardized the values
 
 Age cleaning:
-• Removed unnecessary spaces
-• Changed data type to INT
+- Removed unnecessary spaces
+- Changed data type to INT
 
 Province cleaning:
-• Removed unnecessary spaces
-• Replaced missing values
-• Standardize the missing values
+- Removed unnecessary spaces
+- Replaced missing values
+- Standardize the missing values
 
 Monthly_Income cleaning:
-• Removed unnecessary spaces
-• Replaced missing values
-• Standardized the values
-• Change data type to DOUBLE
+- Removed unnecessary spaces
+- Replaced missing values
+- Standardized the values
+- Change data type to DOUBLE
 
 Join_Date cleaning:
-• Removed unnecessary spaces
-• Standardized the values
-• Changed data type to DATE
+- Removed unnecessary spaces
+- Standardized the values
+- Changed data type to DATE
 
 Policy_ID cleaning:
-• Removed unnecessary spaces
+- Removed unnecessary spaces
 
 Premium_Amount cleaning:
-• Removed unnecessary spaces
-• Replaced missing values
-• Standardized the values
-• Changed data type to DOUBLE
+- Removed unnecessary spaces
+- Replaced missing values
+- Standardized the values
+- Changed data type to DOUBLE
 
 Policy_Status cleaning:
-• Removed unnecessary spaces
-• Standardized the values
+- Removed unnecessary spaces
+- Standardized the values
 
 Claim_ID cleaning:
-• Removed unnecessary spaces
+- Removed unnecessary spaces
 
 Claim_Date cleaning:
-• Removed unnecessary spaces
-• Standardized the values
-• Changed data type to DATE
+- Removed unnecessary spaces
+- Standardized the values
+- Changed data type to DATE
 
 Claim_Amount cleaning:
-• Removed unnecessary spaces
-• Replaced missing values
-• Standardized the values
-• Changed data type to DOUBLE
+- Removed unnecessary spaces
+- Replaced missing values
+- Standardized the values
+- Changed data type to DOUBLE
 
 Claim_Status cleaning:
-• Removed unnecessary spaces
-• Standardized the values
+- Removed unnecessary spaces
+- Standardized the values
 
 Fraud_Flag cleaning:
-• Removed unnecessary spaces
-• Standardized the values
-• Replaced missing values
+- Removed unnecessary spaces
+- Standardized the values
+- Replaced missing values
 
 The cleaned table is created and displayed with it’s appropriate data types.
 
 Invalid data handling:
-• Remove data where the Customer_ID is blank
-• Remove data where the Age of the Customer is under 18
+- Remove data where the Customer_ID is blank
+- Remove data where the Age of the Customer is under 18
 
 Data Exploration
 Total number of customers
@@ -170,11 +170,11 @@ Western Cape has 75 claims
 KwaZulu-Natal has 90 claims
 
 Top 5 highest claim amounts
-• CUST1050 claimed R143857.60
-• CUST1324 claimed R115579.76
-• CUST1429 claimed R97527.12
-• CUST1425 claimed R92918.98
-• CUST1068 claimed R89909.74
+- CUST1050 claimed R143857.60
+- CUST1324 claimed R115579.76
+- CUST1429 claimed R97527.12
+- CUST1425 claimed R92918.98
+- CUST1068 claimed R89909.74
 
 Claims trend over time 
 Claim over time has mainly single claims with a few multiple claims on some dates. Considering that there are dates with multiple claims, we could say that the claims are increasing on an upward trend overtime.
@@ -191,22 +191,22 @@ Fraud is most common in KwaZulu-Natal as it has 14 fraudulent claims to the amou
 
 Which customers or segments are high-risk?
 High-Risk Customers
-• CUST1324 claimed 2 times to the amount of R115,58k
-• CUST1415 claimed 1 time to the amount of R80,06k
-• CUST1119 claimed 1 time to the amount of R73,93k
-• CUST1136 claimed 1 time to the amount of R70,42k
-• CUST1504 claimed 1 time to the amount of R63,46k
-• CUST1220 claimed 1 time to the amount of R61,24k
-• CUST1336 claimed 1 time to the amount of R58,79k
+- CUST1324 claimed 2 times to the amount of R115,58k
+- CUST1415 claimed 1 time to the amount of R80,06k
+- CUST1119 claimed 1 time to the amount of R73,93k
+- CUST1136 claimed 1 time to the amount of R70,42k
+- CUST1504 claimed 1 time to the amount of R63,46k
+- CUST1220 claimed 1 time to the amount of R61,24k
+- CUST1336 claimed 1 time to the amount of R58,79k
 
 High-Risk Segments
-• Life policy has 18 claims to the amount of R970,90k
-• Home policy has 20 claims to the amount of R587,02k
-• Auto policy has 12 claims to the amount of R292,31k
-• Funeral policy has 15 claims to the amount of R246,40k
-• Health policy has 11 claims to the amount of R150,80k
+- Life policy has 18 claims to the amount of R970,90k
+- Home policy has 20 claims to the amount of R587,02k
+- Auto policy has 12 claims to the amount of R292,31k
+- Funeral policy has 15 claims to the amount of R246,40k
+- Health policy has 11 claims to the amount of R150,80k
 
 Recommendations
-• Lower the claim amount of each high-risk segment to discourage customers from doing fraud.
-• To improve customer retention, it is best to target customers within the age range of 30 years to 50 years and to target males and females earning a monthly income of around R28k.
-• Make an adjustment to the premiums by increasing them to improve profitability.
+- Lower the claim amount of each high-risk segment to discourage customers from doing fraud.
+- To improve customer retention, it is best to target customers within the age range of 30 years to 50 years and to target males and females earning a monthly income of around R28k.
+- Make an adjustment to the premiums by increasing them to improve profitability.
