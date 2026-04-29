@@ -1,14 +1,14 @@
-Analysis for an Insurance Company
+# Analysis for an Insurance Company
 
-A report on the Fraud Analysis of Claims from customers of an Insurance Company 
+## A report on the Fraud Analysis of Claims from customers of an Insurance Company 
 
-Project Overview & Background
+### Project Overview & Background
 This project analyzes the claims of Ubuntu Insurance Ltd. who is facing:
 - Increasing claim costs
 - Suspected fraudulent claims
 - Low customer retention
 
-The tools used:
+ The tools used:
 - SQL (Databricks)
 - Power BI (Dashboard)
 - Power Point (Presentation)
@@ -36,10 +36,10 @@ Insights were drawn mainly from these questions:
 - Where is fraud most common?
 - Which customers or segments are high-risk?
 
-Dataset Structure
+### Dataset Structure
 The dataset was a CSV that has 15 columns that are all in the format of a string.
 
-Data Cleaning
+### Data Cleaning
 The dataset that was ingested on Databricks is cleaned in a separate SQL notebook and it creates a new cleaned dataset.
 
 The dataset was initially very messy, presenting issue such as:
@@ -122,7 +122,7 @@ Invalid data handling:
 - Remove data where the Customer_ID is blank
 - Remove data where the Age of the Customer is under 18
 
-Data Exploration
+### Data Exploration
 The insurance dataset was uploaded onto Databricks and was processed using SQL in a notebook.
 The dataset was used to create a table in a database using SQL.
 
@@ -180,10 +180,13 @@ Top 5 highest claim amounts
 - CUST1068 claimed R89909.74
 
 Claims trend over time 
+
 Claim over time has mainly single claims with a few multiple claims on some dates. Considering that there are dates with multiple claims, we could say that the claims are increasing on an upward trend overtime.
 
 Insights
+
 What trends do you observe?
+
 Claims have been on a downward trend in general but the fraudulent claims have been increasing on an upward trend over time along with the claim amount.
 
 Which policy type is most risky?
@@ -209,7 +212,7 @@ High-Risk Segments
 - Funeral policy has 15 claims to the amount of R246,40k
 - Health policy has 11 claims to the amount of R150,80k
 
-Recommendations
+### Recommendations
 - Lower the claim amount of each high-risk segment to discourage customers from doing fraud.
 - To improve customer retention, it is best to target customers within the age range of 30 years to 50 years and to target males and females earning a monthly income of around R28k.
 - Make an adjustment to the premiums by increasing them to improve profitability.
