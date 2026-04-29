@@ -65,8 +65,7 @@ Age cleaning:
 • Changed data type to INT
 
 Province cleaning:
-• Removed 
-unnecessary spaces
+• Removed unnecessary spaces
 • Replaced missing values
 • Standardize the missing values
 
@@ -121,8 +120,7 @@ The cleaned table is created and displayed with it’s appropriate data types.
 
 Invalid data handling:
 • Remove data where the Customer_ID is blank
-• Remove data where the 
-Age of the Customer is under 18
+• Remove data where the Age of the Customer is under 18
 
 Data Exploration
 Total number of customers
@@ -172,24 +170,14 @@ Western Cape has 75 claims
 KwaZulu-Natal has 90 claims
 
 Top 5 highest claim amounts
-• CUST1050 claimed 
-R143857.60
-• CUST1324 claimed 
-R115579.76
-• CUST1429 claimed 
-R97527.12
-• CUST1425 claimed 
-R92918.98
-• CUST1068 claimed 
-R89909.74
+• CUST1050 claimed R143857.60
+• CUST1324 claimed R115579.76
+• CUST1429 claimed R97527.12
+• CUST1425 claimed R92918.98
+• CUST1068 claimed R89909.74
 
 Claims trend over time 
-Claim over time has mainly single claims 
-with a few multiple claims on some dates.
-Considering that there are dates with 
-multiple claims, we could say that the 
-claims are increasing on an upward trend 
-overtime.
+Claim over time has mainly single claims with a few multiple claims on some dates. Considering that there are dates with multiple claims, we could say that the claims are increasing on an upward trend overtime.
 
 Insights
 What trends do you observe?
