@@ -11,13 +11,8 @@ This project analyzes the claims of Ubuntu Insurance Ltd. who is facing:
 - Power BI (Dashboard)
 - Power Point (Presentation)
 
-The insurance dataset was uploaded onto Databricks and was processed using SQL in a notebook
-The dataset was used to create a table in a database using SQL
-
 Data Exploration Questions
-
 The Following questions were answered in the data exploration notebook:
-
 - Total number of customers 
 - Total number of policies 
 - Total number of claims 
@@ -40,6 +35,7 @@ Insights were drawn mainly from these questions:
 - Which customers or segments are high-risk?
 
 Dataset Structure
+The dataset was a CSV that has 15 columns that are all in the format of a string.
 
 Data Cleaning
 The dataset that was ingested on Databricks is cleaned in a separate SQL notebook and it creates a new cleaned dataset.
@@ -125,75 +121,54 @@ Invalid data handling:
 - Remove data where the Age of the Customer is under 18
 
 Data Exploration
+The insurance dataset was uploaded onto Databricks and was processed using SQL in a notebook.
+The dataset was used to create a table in a database using SQL.
+
 Total number of customers
-Total number of customers is 518 customers 
+- Total number of customers is 518 customers 
 
 Total number of policies 
-Total number of policies is 520 policies 
+- Total number of policies is 520 policies 
 
 Total number of claims 
-Total number of claims is 547 claims
+- Total number of claims is 547 claims
 
 Total claim amount 
-Total Claim Amount is R12 578 657.02
+- Total Claim Amount is R12 578 657.02
 
 Claims by policy type 
-
-Home policy has 94 claims
-
-Auto policy has 128 claims
-
-Health policy has 134 claims
-
-Motor policy has 10 claims
-
-Life policy has 105 claims
-
-Funeral policy has 68 claims
-
-Medical policy has 5 claims
-
-Property policy has 3 claims
-
+- Home policy has 94 claims
+- Auto policy has 128 claims
+- Health policy has 134 claims
+- Motor policy has 10 claims\
+- Life policy has 105 claims
+- Funeral policy has 68 claims
+- Medical policy has 5 claims
+- Property policy has 3 claims
 
 Average claim amount per policy type 
-
-Funeral policies claimed R14198.58
-Home policies claimed R25467.26
-
-Medical policies claimed R17714.30
-
-Motor policies claimed R14929.18
-
-Health policies claimed R12234.46
-
-Life policies claimed R45518.10
-
-Auto policies claimed R19049.83
-
-Property policies claimed R20201.64
+- Funeral policies claimed R14198.58
+- Home policies claimed R25467.26
+- Medical policies claimed R17714.30\
+- Motor policies claimed R14929.18
+- Health policies claimed R12234.46
+- Life policies claimed R45518.10
+- Auto policies claimed R19049.83
+- Property policies claimed R20201.64
 
 Number of fraud vs non-fraud claims
-79 fraudulent claims
-471 non-fraudulent claims
+- 79 fraudulent claims
+- 471 non-fraudulent claims
 
 Claims per location 
-
-Gauteng has 64 claims
-
-Limpopo has 47 claims
-
-Eastern Cape 75 claims
-
-North West has 72 claims
-
-Free State has 72 claims
-
-Mpumalanga has 55 claims
-
-Western Cape has 75 claims
-
-KwaZulu-Natal has 90 claims
+- Gauteng has 64 claims
+- Limpopo has 47 claims
+- Eastern Cape 75 claims
+- North West has 72 claims
+- Free State has 72 claims
+- Mpumalanga has 55 claims
+- Western Cape has 75 claims
+- KwaZulu-Natal has 90 claims
 
 Top 5 highest claim amounts
 - CUST1050 claimed R143857.60
