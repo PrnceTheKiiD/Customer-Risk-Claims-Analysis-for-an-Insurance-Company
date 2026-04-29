@@ -7,7 +7,8 @@ This project analyzes the claims of Ubuntu Insurance Ltd. who is facing:
 - Increasing claim costs
 - Suspected fraudulent claims
 - Low customer retention
-- The tools used:
+
+The tools used:
 - SQL (Databricks)
 - Power BI (Dashboard)
 - Power Point (Presentation)
