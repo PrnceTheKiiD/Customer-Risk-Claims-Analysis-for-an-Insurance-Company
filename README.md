@@ -1,9 +1,12 @@
 Customer Risk & Claims 
-Analysis for an Insurance 
-Company
+
+Analysis for an Insurance Company
+
 A report on the Fraud Analysis of Claims
 from customers of an Insurance Company 
+
 Project Overview & Background
+
 • This project analyzes the claims of 
 Ubuntu Insurance Ltd. who is facing:
 • Increasing claim costs
@@ -13,22 +16,9 @@ Ubuntu Insurance Ltd. who is facing:
 • SQL (Databricks)
 • Power BI (Dashboard)
 • Power Point (Presentation)
+
 Dataset Structure
-• Customer_ID
-• Age 
-• Gender
-• Province
-• Monthly_Income
-• Join_Date
-• Policy_ID
-• Policy_Type
-• Premium Amount
-• Policy_Status
-• Claim_ID
-• Claim_Date
-• Claim_Amount
-• Claim_Status
-• Fraud_Flag– Unique customer– Customer age– Male/Female – Province/City – Customer income – Date that customer joined policy– Policy identifier– Auto / Health / Life– Monthly premium– Active / Cancelled– Claim identifier– Date of claim– Amount claimed– Approved / Rejected – Yes / No 
+
 Data Exploration
 • The insurance dataset was uploaded onto Databricks and was 
 processed using SQL in a notebook
@@ -36,18 +26,31 @@ processed using SQL in a notebook
 Data Exploration Questions
 The Following questions were answered in the data exploration 
 notebook:
+
 ❑Total number of customers 
+
 ❑Total number of policies 
+
 ❑Total number of claims 
+
 ❑Total claim amount 
+
 ❑Claims by policy type 
+
 ❑Average claim amount per policy type 
+
 ❑Number of fraud vs non-fraud claims 
+
 ❑Top 5 highest claim amounts 
+
 ❑Claims per location 
+
 ❑Claims trend over time 
-Total number of customers 
+
+Total number of customers
+
 Total number of customers is 518 customers 
+
 Total number of policies 
 Total number of policies is 520 policies 
 Total number of claims 
