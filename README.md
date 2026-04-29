@@ -13,7 +13,9 @@ This project analyzes the claims of Ubuntu Insurance Ltd. who is facing:
 
 The insurance dataset was uploaded onto Databricks and was processed using SQL in a notebook
 The dataset was used to create a table in a database using SQL
+
 Data Exploration Questions
+
 The Following questions were answered in the data exploration notebook:
 
 - Total number of customers 
