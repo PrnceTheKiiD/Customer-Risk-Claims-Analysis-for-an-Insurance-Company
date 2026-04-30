@@ -78,7 +78,7 @@ The dataset was initially very messy, presenting issue such as:
       </ul>
     </td>
     <td valign="top">
-      <img src=Presentation%20Assets/Cleaning_Data.png width="1500" height="100%" alt="Description 1"><br>
+      <img src=Presentation%20Assets/Cleaning_Data.png width="100%" height="100%" alt="Description 1"><br>
     </td>
   </tr>
 
@@ -92,7 +92,7 @@ The dataset was initially very messy, presenting issue such as:
       </ul>
     </td>
     <td valign="top">
-      <img src=Presentation%20Assets/Cleaning_Data%20(2).png width="1500" alt="Description 1"><br>
+      <img src=Presentation%20Assets/Cleaning_Data%20(2).png width="100%" height="100%" alt="Description 1"><br>
     </td>
    </tr>
 
@@ -121,7 +121,7 @@ The dataset was initially very messy, presenting issue such as:
         <li>Standardized the valuess</li>
       </ul>
       <td valign="top">
-      <img src=Presentation%20Assets/Cleaning_Data%20(3).png width="1500" alt="Description 1"><br>
+      <img src=Presentation%20Assets/Cleaning_Data%20(3).png width="100%" height="100%" alt="Description 1"><br>
    </tr>
     </td>
 
@@ -145,7 +145,7 @@ The dataset was initially very messy, presenting issue such as:
         <li>Changed data type to DATE</li>
       </ul>
     <td valign="top">
-      <img src=Presentation%20Assets/Cleaning_Data%20(4).png width="1500" alt="Description 1"><br>
+      <img src=Presentation%20Assets/Cleaning_Data%20(4).png width="100%" height="100%" alt="Description 1"><br>
     </td>
    </tr>
  <tr>
@@ -171,14 +171,14 @@ The dataset was initially very messy, presenting issue such as:
        <li>Replaced missing values</li>
      </ul>
     <td valign="top">
-      <img src=Presentation%20Assets/Cleaning_Data%20(5).png width="1500" alt="Description 1"><br>
+      <img src=Presentation%20Assets/Cleaning_Data%20(5).png width="100%" height="100%" alt="Description 1"><br>
     </td>
    </tr>      
 </table>
 
 <table>
   <tr>
-    <td><img src= Presentation%20Assets/Cleaning_Data%20(6).png width="1500"></td>
+    <td><img src= Presentation%20Assets/Cleaning_Data%20(6).png width="100%" height="100%"></td>
   </tr>
 </table>
 
