@@ -185,8 +185,21 @@ Claims trend over time
 Claims over time has mainly single claims with a few multiple claims on some dates. Considering that there are dates with multiple claims, we could say that the claims are increasing on an upward trend overtime.
 
 What trends do you observe?
+
+<table>
+  <tr>
+    <td><img src= ![](Presentation%20Assets/1(1).png) width="200"></td>
+    <td><img src="URL_OR_PATH_2" width="200"></td>
+  </tr>
+  <tr>
+    <td><img src="URL_OR_PATH_3" width="200"></td>
+    <td><img src="URL_OR_PATH_4" width="200"></td>
+  </tr>
+</table>
+
+
 All claims
- ![](Presentation%20Assets/1(1).png)
+
  ![](Presentation%20Assets/1(2).png)
  Fradulenty claims
  ![](Presentation%20Assets/1(3).png)
