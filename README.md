@@ -29,6 +29,7 @@ The Following questions were answered in the data exploration notebook:
 Dashboard and Insights
 A Power BI Dashboard was built to visualize and summarize the insights from the cleaned table dataset
 Dashboard Link: https://app.powerbi.com/viewr=eyJrIjoiYTAyNTg0MDYtNDJhZi00ZmY0LTk2N2MtMDlhNWZiMGUxMjNiIiwidCI6IjczNjVmODNhLWViY2UtNGM5ZS1iYTI2LWY5ZjM5ZmZhYTk4ZSJ9
+![](Presentation%20Assets/Customer%20Risk%20%20Claims%20Analysis%20for%20an%20Insurance%20Company-1.png)
 
 Insights were drawn mainly from these questions:
 - What trends do you observe?
