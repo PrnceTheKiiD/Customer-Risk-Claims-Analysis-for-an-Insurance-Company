@@ -8,8 +8,7 @@ This project analyzes the claims of Ubuntu Insurance Ltd. who is facing:
 - Suspected fraudulent claims
 - Low customer retention
 
-Data Exploration Questions
-The Following questions were answered in the data exploration notebook:
+Insight wetre drawn from the:
 - Total number of customers 
 - Total number of policies
 - Total number of claims 
@@ -20,6 +19,10 @@ The Following questions were answered in the data exploration notebook:
 - Top 5 highest claim amounts
 - Claims per location
 - Claims trend over time
+- What trends do you observe?
+- Which policy type is most risky?
+- Where is fraud most common?
+- Which customers or segments are high-risk?
 
  The tools used:
 - SQL (Databricks)
