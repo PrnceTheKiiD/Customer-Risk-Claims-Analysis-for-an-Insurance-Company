@@ -207,10 +207,12 @@ All claims
 Claims have been on a downward trend in general but the fraudulent claims have been increasing on an upward trend over time along with the claim amount.
 
 Which policy type is most risky?
-<p align="center">
-  <img src=Presentation%20Assets/2%20v2%20(1).png width="45%" />
-  <img src=Presentation%20Assets/2%20(2).png width="45%" />
-</p>
+<table>
+  <tr>
+    <td><img src=Presentation%20Assets/2%20v2%20(1).png width="100%"></td>
+    <td><img src==Presentation%20Assets/2%20(2).png width="100%"></td>
+  </tr>
+</table>
 Life policy is most risky as it has 18 claims with that being the highest claim amount of R970,90k in total, 8 of the claims being approved to the amount of R531,48k.
 
 Where is fraud most common? 
