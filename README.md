@@ -39,6 +39,7 @@ Insights were drawn mainly from these questions:
 
 ### Dataset Structure
 The dataset was a CSV that has 15 columns that are all in the format of a string.
+![](Presentation%20Assets/Data.png)
 
 ### Data Cleaning
 The dataset that was ingested on Databricks is cleaned in a separate SQL notebook and it creates a new cleaned dataset.
