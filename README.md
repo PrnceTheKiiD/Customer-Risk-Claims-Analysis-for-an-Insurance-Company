@@ -53,6 +53,25 @@ The dataset was initially very messy, presenting issue such as:
 - Inconsistent data types
 - Redundant naming such as different terms with same meaning
 
+<table>
+  <tr>
+    <td valign="top">
+      <h2>Project Title</h2>
+      <ul>
+        <li>Bullet point one describing the project.</li>
+        <li>Bullet point two with more details.</li>
+        <li>Bullet point three for additional info.</li>
+      </ul>
+    </td>
+    <td valign="top">
+      <img src="https://path-to-your-image1.png" width="300" alt="Description 1"><br>
+      <img src="https://path-to-your-image2.png" width="300" alt="Description 2"><br>
+      <img src="https://path-to-your-image3.png" width="300" alt="Description 3">
+    </td>
+  </tr>
+</table>
+
+
 Customer_ID cleaning:
 - Removed unnecessary spaces
 
@@ -185,11 +204,6 @@ Claims trend over time
 Claims over time has mainly single claims with a few multiple claims on some dates. Considering that there are dates with multiple claims, we could say that the claims are increasing on an upward trend overtime.
 
 What trends do you observe?
-
-
-
-
-All claims
 <table>
   <tr>
     <th align="center">All Claims</th>
