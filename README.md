@@ -221,8 +221,6 @@ Where is fraud most common?
     <td><img src= Presentation%20Assets/3.png width="100%"></td>
   </tr>
 </table>
-
-![](Presentation%20Assets/3.png)
 Fraud is most common in KwaZulu-Natal as it has 14 fraudulent claims to the amount of R403,27k
 
 Which customers or segments are high-risk?
@@ -232,8 +230,6 @@ High-Risk Customers
     <td><img src= Presentation%20Assets/4.png width="100%"></td>
   </tr>
 </table>
-
-![](Presentation%20Assets/4.png)
 - CUST1324 claimed 2 times to the amount of R115,58k
 - CUST1415 claimed 1 time to the amount of R80,06k
 - CUST1119 claimed 1 time to the amount of R73,93k
@@ -248,8 +244,6 @@ High-Risk Segments
     <td><img src= Presentation%20Assets/4(2).png width="100%"></td>
   </tr>
 </table>
-
-![](Presentation%20Assets/4(2).png)
 - Life policy has 18 claims to the amount of R970,90k
 - Home policy has 20 claims to the amount of R587,02k
 - Auto policy has 12 claims to the amount of R292,31k
