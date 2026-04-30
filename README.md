@@ -73,7 +73,7 @@ The dataset was initially very messy, presenting issue such as:
       </ul>
     </td>
     <td valign="top">
-      <img src=Presentation%20Assets/Cleaning_Data.png width="1500" alt="Description 1"><br>
+      <img src=Presentation%20Assets/Cleaning_Data.png width="2000" alt="Description 1"><br>
     </td>
   </tr>
 
