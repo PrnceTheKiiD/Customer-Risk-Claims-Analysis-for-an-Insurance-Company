@@ -8,11 +8,6 @@ This project analyzes the claims of Ubuntu Insurance Ltd. who is facing:
 - Suspected fraudulent claims
 - Low customer retention
 
- The tools used:
-- SQL (Databricks)
-- Power BI (Dashboard)
-- Power Point (Presentation)
-
 Data Exploration Questions
 The Following questions were answered in the data exploration notebook:
 - Total number of customers 
@@ -26,7 +21,13 @@ The Following questions were answered in the data exploration notebook:
 - Claims per location
 - Claims trend over time
 
+ The tools used:
+- SQL (Databricks)
+- Power BI (Dashboard)
+- Power Point (Presentation)
+- 
 Dashboard and Insights
+
 A Power BI Dashboard was built to visualize and summarize the insights from the cleaned table dataset.
 Dashboard Link: https://app.powerbi.com/viewr=eyJrIjoiYTAyNTg0MDYtNDJhZi00ZmY0LTk2N2MtMDlhNWZiMGUxMjNiIiwidCI6IjczNjVmODNhLWViY2UtNGM5ZS1iYTI2LWY5ZjM5ZmZhYTk4ZSJ9
 
