@@ -73,7 +73,7 @@ The dataset was initially very messy, presenting issue such as:
       </ul>
     </td>
     <td valign="top">
-      <img src="https://path-to-your-image1.png" width="300" alt="Description 1"><br>
+      <img src=Presentation%20Assets/Cleaning_Data.png width="300" alt="Description 1"><br>
     </td>
   </tr>
 
@@ -87,7 +87,7 @@ The dataset was initially very messy, presenting issue such as:
       </ul>
     </td>
     <td valign="top">
-      <img src="https://path-to-your-image1.png" width="300" alt="Description 1"><br>
+      <img src=Presentation%20Assets/Cleaning_Data(2).png width="300" alt="Description 1"><br>
     </td>
    </tr>
 
@@ -116,6 +116,9 @@ The dataset was initially very messy, presenting issue such as:
         <li>Standardized the valuess</li>
       </ul>
    </tr>
+   <td valign="top">
+      <img src=Presentation%20Assets/Cleaning_Data.png(3) width="300" alt="Description 1"><br>
+    </td>
 
   <tr>
     <td valign="top">
@@ -137,7 +140,7 @@ The dataset was initially very messy, presenting issue such as:
         <li>Changed data type to DATE</li>
       </ul>
     <td valign="top">
-      <img src="https://path-to-your-image1.png" width="300" alt="Description 1"><br>
+      <img src=Presentation%20Assets/Cleaning_Data.png(4) width="300" alt="Description 1"><br>
     </td>
    </tr>
  <tr>
@@ -163,14 +166,14 @@ The dataset was initially very messy, presenting issue such as:
        <li>Replaced missing values</li>
      </ul>
     <td valign="top">
-      <img src="https://path-to-your-image1.png" width="300" alt="Description 1"><br>
+      <img src=Presentation%20Assets/Cleaning_Data(5).png width="300" alt="Description 1"><br>
     </td>
    </tr>      
 </table>
 
 <table>
   <tr>
-    <td><img src= Presentation%20Assets/4.png width="100%"></td>
+    <td><img src= Presentation%20Assets/Cleaning_Data(6).png width="100%"></td>
   </tr>
 </table>
 
@@ -179,6 +182,12 @@ The cleaned table is created and displayed with it’s appropriate data types.
 Invalid data handling:
 - Remove data where the Customer_ID is blank
 - Remove data where the Age of the Customer is under 18
+- 
+<table>
+  <tr>
+    <td><img src= Presentation%20Assets/Remove_Invalid_Data.png width="100%"></td>
+  </tr>
+</table>
 
 ### Data Exploration
 The insurance dataset was uploaded onto Databricks and was processed using SQL in a notebook.
