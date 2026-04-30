@@ -76,25 +76,20 @@ The dataset was initially very messy, presenting issue such as:
       <img src="https://path-to-your-image1.png" width="300" alt="Description 1"><br>
     </td>
   </tr>
+
+  <tr>
+    <td valign="top">
+      <h2>Province cleaning:</h2>
+      <ul>
+        <li>Removed unnecessary spaces</li>
+        <li>Replaced missing values</li>
+        <li>Standardized the valuess</li>
+    </td>
+    <td valign="top">
+      <img src="https://path-to-your-image1.png" width="300" alt="Description 1"><br>
+    </td>
+   </tr>
 </table>
-
-
-Customer_ID cleaning:
-- 
-
-Gender cleaning:
-- Removed unnecessary spaces
-- 
-- 
-
-Age cleaning:
-- 
-- 
-
-Province cleaning:
-- Removed unnecessary spaces
-- Replaced missing values
-- Standardize the missing values
 
 Monthly_Income cleaning:
 - Removed unnecessary spaces
