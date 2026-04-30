@@ -56,33 +56,40 @@ The dataset was initially very messy, presenting issue such as:
 <table>
   <tr>
     <td valign="top">
-      <h2>Project Title</h2>
+      <h2>Customer_ID cleaning:</h2>
       <ul>
-        <li>Bullet point one describing the project.</li>
-        <li>Bullet point two with more details.</li>
-        <li>Bullet point three for additional info.</li>
+        <li>Removed unnecessary spaces</li>
+      </ul>
+     <h2>Age cleaning:</h2>
+      <ul>
+        <li>Removed unnecessary spaces</li>
+        <li>Changed data type to INT</li>
+      </ul>
+     <h2>Gender cleaning:</h2>
+      <ul>
+        <li>Removed unnecessary spaces</li>
+        <li>Replaced missing values</li>
+        <li>Standardized the values</li>
       </ul>
     </td>
     <td valign="top">
       <img src="https://path-to-your-image1.png" width="300" alt="Description 1"><br>
-      <img src="https://path-to-your-image2.png" width="300" alt="Description 2"><br>
-      <img src="https://path-to-your-image3.png" width="300" alt="Description 3">
     </td>
   </tr>
 </table>
 
 
 Customer_ID cleaning:
-- Removed unnecessary spaces
+- 
 
 Gender cleaning:
 - Removed unnecessary spaces
-- Replaced missing values
-- Standardized the values
+- 
+- 
 
 Age cleaning:
-- Removed unnecessary spaces
-- Changed data type to INT
+- 
+- 
 
 Province cleaning:
 - Removed unnecessary spaces
