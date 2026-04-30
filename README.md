@@ -8,7 +8,7 @@ This project analyzes the claims of Ubuntu Insurance Ltd. who is facing:
 - Suspected fraudulent claims
 - Low customer retention
 
-Insight wetre drawn from the:
+Insights were drawn from the:
 - Total number of customers 
 - Total number of policies
 - Total number of claims 
