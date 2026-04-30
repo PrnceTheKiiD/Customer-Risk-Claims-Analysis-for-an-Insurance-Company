@@ -16,19 +16,20 @@ This project analyzes the claims of Ubuntu Insurance Ltd. who is facing:
 Data Exploration Questions
 The Following questions were answered in the data exploration notebook:
 - Total number of customers 
-- Total number of policies 
+- Total number of policies
 - Total number of claims 
-- Total claim amount 
-- Claims by policy type 
-- Average claim amount per policy type 
-- Number of fraud vs non-fraud claims 
-- Top 5 highest claim amounts 
-- Claims per location 
-- Claims trend over time 
+- Total claim amount
+- Claims by policy type
+- Average claim amount per policy type
+- Number of fraud vs non-fraud claims
+- Top 5 highest claim amounts
+- Claims per location
+- Claims trend over time
 
 Dashboard and Insights
-A Power BI Dashboard was built to visualize and summarize the insights from the cleaned table dataset
+A Power BI Dashboard was built to visualize and summarize the insights from the cleaned table dataset.
 Dashboard Link: https://app.powerbi.com/viewr=eyJrIjoiYTAyNTg0MDYtNDJhZi00ZmY0LTk2N2MtMDlhNWZiMGUxMjNiIiwidCI6IjczNjVmODNhLWViY2UtNGM5ZS1iYTI2LWY5ZjM5ZmZhYTk4ZSJ9
+
 ![](Presentation%20Assets/Customer%20Risk%20%20Claims%20Analysis%20for%20an%20Insurance%20Company-1.png)
 
 Insights were drawn mainly from these questions:
