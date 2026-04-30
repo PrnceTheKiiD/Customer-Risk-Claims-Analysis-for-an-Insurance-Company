@@ -41,7 +41,7 @@ Insights were drawn mainly from these questions:
 The dataset was a CSV that has 15 columns that are all in the format of a string.
 <table>
   <tr>
-    <td><img src= Presentation%20Assets/Data.png width="100%"></td>
+    <td><img src= Presentation%20Assets/Data.png width="600"></td>
   </tr>
 </table>
 
