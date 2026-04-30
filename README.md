@@ -186,24 +186,24 @@ Claims over time has mainly single claims with a few multiple claims on some dat
 
 What trends do you observe?
 All claims
- ![](Presentation%20Asset/1(1).png)
- ![](Presentation%20Asset/1(2).png)
+ ![](Presentation%20Assets/1(1).png)
+ ![](Presentation%20Assets/1(2).png)
  Fradulenty claims
- ![](Presentation%20Asset/1(3).png)
- ![](Presentation%20Asset/1(4).png)
+ ![](Presentation%20Assets/1(3).png)
+ ![](Presentation%20Assets/1(4).png)
 Claims have been on a downward trend in general but the fraudulent claims have been increasing on an upward trend over time along with the claim amount.
 
 Which policy type is most risky?
- ![](Presentation%20Asset/2%20v2%20(1).png) ![](Presentation%20Asset/2%20(2).png)
+ ![](Presentation%20Assets/2%20v2%20(1).png) ![](Presentation%20Assets/2%20(2).png)
 Life policy is most risky as it has 18 claims with that being the highest claim amount of R970,90k in total, 8 of the claims being approved to the amount of R531,48k.
 
 Where is fraud most common? 
-![](Presentation%20Asset/3.png)
+![](Presentation%20Assets/3.png)
 Fraud is most common in KwaZulu-Natal as it has 14 fraudulent claims to the amount of R403,27k
 
 Which customers or segments are high-risk?
 High-Risk Customers
-![](Presentation%20Asset/4.png)
+![](Presentation%20Assets/4.png)
 - CUST1324 claimed 2 times to the amount of R115,58k
 - CUST1415 claimed 1 time to the amount of R80,06k
 - CUST1119 claimed 1 time to the amount of R73,93k
@@ -213,7 +213,7 @@ High-Risk Customers
 - CUST1336 claimed 1 time to the amount of R58,79k
 
 High-Risk Segments
-![](Presentation%20Asset/4(2).png)
+![](Presentation%20Assets/4(2).png)
 - Life policy has 18 claims to the amount of R970,90k
 - Home policy has 20 claims to the amount of R587,02k
 - Auto policy has 12 claims to the amount of R292,31k
