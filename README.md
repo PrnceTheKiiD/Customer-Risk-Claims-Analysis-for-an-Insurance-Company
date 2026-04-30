@@ -188,7 +188,7 @@ What trends do you observe?
 
 <table>
   <tr>
-    <td><img src= ![](Presentation%20Assets/1(1).png) width="200"></td>
+    <td><img src= Presentation%20Assets/1(1).png width="200"></td>
     <td><img src="URL_OR_PATH_2" width="200"></td>
   </tr>
   <tr>
