@@ -168,38 +168,11 @@ The dataset was initially very messy, presenting issue such as:
    </tr>      
 </table>
 
-Premium_Amount cleaning:
-- Removed unnecessary spaces
-- Replaced missing values
-- Standardized the values
-- Changed data type to DOUBLE
-
-Policy_Status cleaning:
-- Removed unnecessary spaces
-- Standardized the values
-
-Claim_ID cleaning:
-- Removed unnecessary spaces
-
-Claim_Date cleaning:
-- Removed unnecessary spaces
-- Standardized the values
-- Changed data type to DATE
-
-Claim_Amount cleaning:
-- Removed unnecessary spaces
-- Replaced missing values
-- Standardized the values
-- Changed data type to DOUBLE
-
-Claim_Status cleaning:
-- Removed unnecessary spaces
-- Standardized the values
-
-Fraud_Flag cleaning:
-- Removed unnecessary spaces
-- Standardized the values
-- Replaced missing values
+<table>
+  <tr>
+    <td><img src= Presentation%20Assets/4.png width="100%"></td>
+  </tr>
+</table>
 
 The cleaned table is created and displayed with it’s appropriate data types.
 
