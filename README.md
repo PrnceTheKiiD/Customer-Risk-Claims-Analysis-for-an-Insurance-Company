@@ -84,26 +84,89 @@ The dataset was initially very messy, presenting issue such as:
         <li>Removed unnecessary spaces</li>
         <li>Replaced missing values</li>
         <li>Standardized the valuess</li>
+      </ul>
     </td>
     <td valign="top">
       <img src="https://path-to-your-image1.png" width="300" alt="Description 1"><br>
     </td>
    </tr>
+
+  <tr>
+    <td valign="top">
+      <h2>Monthly_Income cleaning:</h2>
+      <ul>
+        <li>Removed unnecessary spaces</li>
+        <li>Replaced missing values</li>
+        <li>Standardized the valuess</li>
+       <li>Change data type to DOUBLE</li>
+      </ul>
+     <h2>Join_Date cleaning:</h2>
+      <ul>
+        <li>Removed unnecessary spaces</li>
+        <li>Standardized the valuess</li>
+       <li>Change data type to DATE</li>
+      </ul>
+     <h2>Policy_ID cleaning:</h2>
+      <ul>
+        <li>Removed unnecessary spaces</li>
+      </ul>
+     <h2>Policy_Type cleaning:</h2>
+      <ul>
+        <li>Removed unnecessary spaces</li>
+        <li>Standardized the valuess</li>
+      </ul>
+   </tr>
+
+  <tr>
+    <td valign="top">
+      <h2>Premium_Amount cleaning:</h2>
+        <ul>
+          <li>Removed unnecessary spaces</li>
+          <li>Replaced missing values</li>
+          <li>Standardized the values</li>
+          <li>Changed data type to DOUBLE</li>
+        </ul>
+     <h2>Claim_ID cleaning:</h2>
+       <ul>
+         <li>Removed unnecessary spaces</li>
+       </ul>
+     <h2>Claim_Date cleaning:</h2>
+      <ul>
+        <li>Removed unnecessary spaces</li>
+        <li>Standardized the values</li>
+        <li>Changed data type to DATE</li>
+      </ul>
+    <td valign="top">
+      <img src="https://path-to-your-image1.png" width="300" alt="Description 1"><br>
+    </td>
+   </tr>
+ <tr>
+    <td valign="top">
+      <h2>Claim_Amount cleaning:</h2>
+        <ul>
+          <li>Removed unnecessary spaces</li>
+          <li>Replaced missing values</li>
+          <li>Standardized the values</li>
+          <li>Changed data type to DOUBLE</li>
+        </ul>
+
+   <h2>Claim_Status cleaning:</h2>
+     <ul>
+       <li>Removed unnecessary spaces</li>
+       <li>Standardized the values</li>
+     </ul>
+
+   <h2>Fraud_Flag cleaning:</h2>
+     <ul>
+       <li>Removed unnecessary spaces</li>
+       <li>Standardized the values</li>
+       <li>Replaced missing values</li>
+     </ul>
+    <td valign="top">
+      <img src="https://path-to-your-image1.png" width="300" alt="Description 1"><br>
+    </td>
+   </tr>      
 </table>
-
-Monthly_Income cleaning:
-- Removed unnecessary spaces
-- Replaced missing values
-- Standardized the values
-- Change data type to DOUBLE
-
-Join_Date cleaning:
-- Removed unnecessary spaces
-- Standardized the values
-- Changed data type to DATE
-
-Policy_ID cleaning:
-- Removed unnecessary spaces
 
 Premium_Amount cleaning:
 - Removed unnecessary spaces
