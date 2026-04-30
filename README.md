@@ -186,24 +186,24 @@ Claims over time has mainly single claims with a few multiple claims on some dat
 
 What trends do you observe?
 
-<table>
-  <tr>
-    <td><img src= Presentation%20Assets/1(1).png width="200"></td>
-    <td><img src="URL_OR_PATH_2" width="200"></td>
-  </tr>
-  <tr>
-    <td><img src="URL_OR_PATH_3" width="200"></td>
-    <td><img src="URL_OR_PATH_4" width="200"></td>
-  </tr>
-</table>
+
 
 
 All claims
-
- ![](Presentation%20Assets/1(2).png)
- Fradulenty claims
- ![](Presentation%20Assets/1(3).png)
- ![](Presentation%20Assets/1(4).png)
+<table>
+  <tr>
+    <th align="center">All Claims</th>
+    <th align="center">Fraudulent Claims</th>
+  </tr>
+  <tr>
+    <td><img src= Presentation%20Assets/1(1).png width="200"></td>
+    <td><img src= Presentation%20Assets/1(2).png width="200"></td>
+  </tr>
+  <tr>
+    <td><img src= Presentation%20Assets/1(3).png width="200"></td>
+    <td><img src= Presentation%20Assets/1(4).png width="200"></td>
+  </tr>
+</table>
 Claims have been on a downward trend in general but the fraudulent claims have been increasing on an upward trend over time along with the claim amount.
 
 Which policy type is most risky?
