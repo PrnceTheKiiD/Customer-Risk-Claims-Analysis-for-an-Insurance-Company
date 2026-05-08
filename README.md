@@ -28,7 +28,7 @@ Insights were drawn from the:
 - SQL (Databricks)
 - Power BI (Dashboard)
 - Power Point (Presentation)
-- 
+ 
 Dashboard and Insights
 
 A Power BI Dashboard was built to visualize and summarize the insights from the cleaned table dataset.
